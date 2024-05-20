@@ -60,7 +60,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="", url=f"https://t.me/{OWNER_USERNAME}"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"
             ),
             InlineKeyboardButton(
                 text="ᴄʜᴀɴɴᴇʟ", url=f"{CHAT_GROUP}"
@@ -82,7 +82,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="", url=f"https://t.me/{OWNER_USERNAME}"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"
             ),
             InlineKeyboardButton(
                 text="ᴄʜᴀɴɴᴇʟ", url=f"{CHAT_GROUP}"
